@@ -4,6 +4,5 @@
 - 📫 How to reach me leu321@gmail.com
 
 <!---
-leoramosxd/leoramosxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+leoramosxd/hacker-mindset é um projeto da materia hacker mindset na fiap.
 --->
