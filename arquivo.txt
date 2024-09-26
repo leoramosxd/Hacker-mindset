@@ -1,0 +1,4 @@
+usuario: labsfiap
+hostname :PA704MICRO20
+SO: MINGW64_NT-10.0-19045
+Path: /c/Users/labsfiap/Documents

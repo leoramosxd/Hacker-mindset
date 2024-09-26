@@ -1,0 +1,13 @@
+!#/bin/bash
+mkdir hacker_mindset linux redes
+echo "melhor aula" > hacker_mindset/notas.txt
+echo "melhor aula" > hacker_mindset/notas.txt
+!#/usr/bin/bash
+mkdir hacker_mindset linux redes
+echo "melhor aula" > hacker_mindset/notas.txt
+echo "segunda melhor aula" > linux/notas.txt
+echo "terceira melhor aula" > redes/notas.txt
+echo "usuario: "$(whoami) > arquivo.txt
+echo "hostname :"$(hostname) >> arquivo.txt
+echo "SO: "$(uname) >> arquivo.txt
+echo "Path: "$(pwd) >> arquivo.txt
